@@ -4,7 +4,7 @@ This project is a to-do list built with React.js, it was developed with the purp
 
 ## Project Demonstration Video
 
-**coming soon**
+https://drive.google.com/file/d/1DmycVs-QIpP2hzLqbbqat6oQnOv8DeqA/view?usp=share_link
 
 ## Project Website
 
