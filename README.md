@@ -6,6 +6,10 @@ This project is a to-do list built with React.js, it was developed with the purp
 
 **coming soon**
 
+## Project Website
+
+https://to-do-list-built-with-reactjs.netlify.app/
+
 ## Screenshot
 
 ![Screenshot](/public/assets/img/Screenshot.jpg)
