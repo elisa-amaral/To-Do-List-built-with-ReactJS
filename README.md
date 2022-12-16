@@ -2,13 +2,13 @@
 
 This project is a to-do list built with React.js, it was developed with the purpose of practicing the basic features of React.js library. The user can add tasks, edit their description and delete them. The browser localStoage is used as the database.
 
-## Project Demonstration Video
-
-https://drive.google.com/file/d/1DmycVs-QIpP2hzLqbbqat6oQnOv8DeqA/view?usp=share_link
-
 ## Project Website
 
 https://to-do-list-built-with-reactjs.netlify.app/
+
+## Project Demonstration Video
+
+https://drive.google.com/file/d/1DmycVs-QIpP2hzLqbbqat6oQnOv8DeqA/view?usp=share_link
 
 ## Screenshot
 
