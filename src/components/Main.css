@@ -1,0 +1,35 @@
+.main {
+  background: #fff;
+  padding: 30px;
+  padding-bottom: 40px;
+  margin: 50px auto;
+  max-width: 500px;
+  border-radius: 15px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.8);
+}
+
+.main h1 {
+  font-size: 24px;
+  text-align: center;
+}
+
+li {
+  font-size: 21px;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: -15px;
+  margin-bottom: 30px;
+
+}
+
+.header img {
+  vertical-align: middle;
+  width: 65px;
+  height: 65px;
+  margin: 0;
+  margin-right: 5px;
+}
