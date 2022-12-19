@@ -27,7 +27,5 @@ module.exports = {
     'no-console': 'off',
     'no-useless-return': 'off',
     'react/forbid-prop-types': 'off',
-
-    // 'react/react-in-jsx-scope': 'off',
   },
 }
